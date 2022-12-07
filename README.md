@@ -30,4 +30,5 @@
 
 For others
 <a href="http://example.com/" target="_blank">Hello, world!</a>
+ [link]([url](http://example.com/)){:target="_blank"}
  
